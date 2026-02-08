@@ -1,14 +1,14 @@
-# AI-Native Software License (AINSL)
+# AI Native Application License (AINAL)
 
 A modern, permissive software license designed for the realities of AI-assisted development.
 
 ## Overview
 
-Traditional software licenses were drafted in an era where source code was written exclusively by humans, with clear lines of authorship and intellectual property ownership. The AI-Native Software License acknowledges that these assumptions no longer hold, and offers a licensing framework built for how software is actually produced today.
+Traditional software licenses were drafted in an era where source code was written exclusively by humans, with clear lines of authorship and intellectual property ownership. The AI Native Application License acknowledges that these assumptions no longer hold, and offers a licensing framework built for how software is actually produced today.
 
-AINSL is based on the MIT License, with modifications that reflect the changed nature of code authorship, originality, and liability in an age of AI code generation.
+AINAL is based on the MIT License, with modifications that reflect the changed nature of code authorship, originality, and liability in an age of AI code generation.
 
-## Why AINSL?
+## Why AINAL?
 
 As AI coding agents become the primary authors of an increasing share of production software, existing licenses leave critical questions unanswered:
 
@@ -16,7 +16,7 @@ As AI coding agents become the primary authors of an increasing share of product
 - **What does "original work" mean** when any sufficiently specific prompt can reproduce functionally equivalent output?
 - **Where does liability rest** when the code was written by an agent, built by a company, trained on data contributed by others?
 
-AINSL provides clear, practical answers to these questions.
+AINAL provides clear, practical answers to these questions.
 
 ## Usage
 
@@ -24,7 +24,7 @@ Copy the `LICENSE` file into your project root, or reference it in your `package
 
 ```json
 {
-  "license": "AINSL-1.1"
+  "license": "AINAL-2.0"
 }
 ```
 
@@ -34,17 +34,17 @@ The full license text is available in [LICENSE](./LICENSE).
 
 ## FAQ
 
-### Is AINSL OSI-approved?
+### Is AINAL OSI-approved?
 
-No. AINSL is a new license and has not been submitted to the Open Source Initiative for review.
+No. AINAL is a new license and has not been submitted to the Open Source Initiative for review.
 
-### Is AINSL compatible with MIT/Apache 2.0/GPL?
+### Is AINAL compatible with MIT/Apache 2.0/GPL?
 
-AINSL is broadly permissive and should be compatible with most permissive licenses. Compatibility with copyleft licenses such as the GPL has not been formally evaluated, in part because nobody is entirely sure who would have standing to enforce it.
+AINAL is broadly permissive and should be compatible with most permissive licenses. Compatibility with copyleft licenses such as the GPL has not been formally evaluated, in part because nobody is entirely sure who would have standing to enforce it.
 
-### Can I use AINSL for commercial projects?
+### Can I use AINAL for commercial projects?
 
-Yes. AINSL is fully compatible with commercial use and places no restrictions on it.
+Yes. AINAL is fully compatible with commercial use and places no restrictions on it.
 
 ### Who should I contact with legal questions?
 
@@ -56,4 +56,4 @@ Contributions are welcome. Please note that any contributions may be indistingui
 
 ## License
 
-This project is licensed under the AI-Native Software License v1.1 — see the [LICENSE](./LICENSE) file for details.
+This project is licensed under the AI Native Application License v2.0 — see the [LICENSE](./LICENSE) file for details.
