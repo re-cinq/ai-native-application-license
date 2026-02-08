@@ -2,6 +2,8 @@
 
 A modern, permissive software license designed for the realities of AI-assisted development.
 
+> *This project was created while using [`claudit`](https://github.com/re-cinq/claudit). To see the Claude Code conversations that led to each commit, clone this repo, install `claudit` and run `claudit sync pull` followed by `claudit list` and `claudit show`.*
+
 ## Overview
 
 Traditional software licenses were drafted in an era where source code was written exclusively by humans, with clear lines of authorship and intellectual property ownership. The AI Native Application License acknowledges that these assumptions no longer hold, and offers a licensing framework built for how software is actually produced today.
