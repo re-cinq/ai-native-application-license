@@ -24,7 +24,7 @@ Copy the `LICENSE` file into your project root, or reference it in your `package
 
 ```json
 {
-  "license": "AINSL-1.0"
+  "license": "AINSL-1.1"
 }
 ```
 
@@ -56,4 +56,4 @@ Contributions are welcome. Please note that any contributions may be indistingui
 
 ## License
 
-This project is licensed under the AI-Native Software License v1.0 — see the [LICENSE](./LICENSE) file for details.
+This project is licensed under the AI-Native Software License v1.1 — see the [LICENSE](./LICENSE) file for details.
